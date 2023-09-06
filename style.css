@@ -1,0 +1,93 @@
+i{
+    font-size: 32px;
+}
+.bi-ubuntu{
+    color: darkviolet;
+}
+.bi-fire{
+    color: orange;
+}
+.bi-droplet-fill{
+    color: #58b7de;
+}
+#fire{
+    display: inline-block;
+    background-color: #f5ddb0;
+    border: 2px solid orange;
+    height: 40px;
+    width: 200px;
+    text-align: center;
+}
+#water{
+      display: inline-block;
+    background-color: #ceecf5; 
+    border: 2px solid #1e8dba;
+    height: 40px;
+     width: 200px;
+    text-align: center;
+}
+a{
+    display: block;
+}
+.wdth{
+    border: 2px solid orange;
+    width: 500px;
+    margin: auto;
+}
+.max_width{
+    border: 2px solid #1e8dba;
+    max-width:500px;
+    margin: auto;
+}
+.div1{
+    position: relative;
+    height: 200px;
+    width: 300px;
+    background-color: #d2a4e5;
+    border-radius: 0% 10% 0% 10%;
+    color: #965a96;
+}
+
+    
+
+.div2{
+    position: absolute;
+    background-color: #965a96;
+    height: 50px;
+    width: 50px;
+    left: 0;
+    top:0;
+    border-radius: 50%;
+}
+.div3{
+    position: absolute;
+    background-color: #965a96;
+    height: 30px;
+    width: 30px;
+    left: 50px;
+    border-radius: 50%;
+}
+.div4{
+    position: absolute;
+    background-color: #965a96;
+    height: 30px;
+    width: 30px;
+    top: 50px;
+    border-radius: 50%;
+}
+#p1{
+    bottom: 0;
+    position: sticky;
+    background-color: #acddc2;
+    border: 2px solid mediumseagreen;
+    
+}
+#p2{
+     bottom: 0;
+    right:0;
+    position: fixed;
+    background-color: pink;
+    border: 2px solid palevioletred;
+
+}
+
